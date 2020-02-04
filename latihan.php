@@ -1,5 +1,5 @@
 <?php
-bogor
+bandung
 jawa
 barat
 
