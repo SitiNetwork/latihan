@@ -1,5 +1,5 @@
 <?php
-bandung
+bandungbarat
 jawa
 barat
 bandung
